@@ -20,14 +20,14 @@ h2{
     color:#ffe36d;
 }
 section{
-    max-width: 60%;
+    width: 60%;
     margin: 0 auto;
 }
 section section{
     width: 100%;
 }
 h1{
-    font: sizez 60px;
+    font-size: 60px;
     font-weight: 300;
 }
 h3{
